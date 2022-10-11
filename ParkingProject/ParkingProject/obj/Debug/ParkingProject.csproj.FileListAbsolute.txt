@@ -1,0 +1,225 @@
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.exe.config
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.exe
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.pdb
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\CircularProgressBar.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\EntityFramework.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.WinForms.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.Wpf.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.SystemEvents.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Newtonsoft.Json.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\RestSharp.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Buffers.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.CodeDom.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.Odbc.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.OleDb.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.SqlClient.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.EventLog.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Drawing.Common.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.FileSystem.AccessControl.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.Packaging.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.Ports.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Memory.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Numerics.Vectors.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.AccessControl.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Cng.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Pkcs.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Xml.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Permissions.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Principal.Windows.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.ServiceModel.Syndication.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.ServiceProcess.ServiceController.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Threading.AccessControl.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.AssemblyReference.cache
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.SuggestedBindingRedirects.cache
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Car_For_Showing_Car_Info.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.FinancialUserControl.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_AdvancedSearchForm.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Basic_definitions.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.CarRegistere.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Dashboardusercontrol.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Employeeusercontrol.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Login.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.MainForm.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOfficeUserControl.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_EntranceInvoice.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_InternalFinancial.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_Rates.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingregisterUsereControl.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Permission_Form.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Properties.Resources.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ReportsSectionUserControl.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Systemuser_registerform.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Systemuser_usercontrol.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.UserRegister.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ViewCarInformation.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ViewCustomerInformation.resources
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.GenerateResource.cache
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.exe.licenses
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.CoreCompileInputs.cache
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.Fody.CopyLocal.cache
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.CopyComplete
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.exe
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.pdb
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.Fody.RuntimeCopyLocal.cache
+F:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.CustomerRegisterForm.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.exe.config
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.exe
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.pdb
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\CircularProgressBar.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\EntityFramework.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\EntityFramework.SqlServer.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.WinForms.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.Wpf.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.Registry.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.SystemEvents.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Newtonsoft.Json.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\RestSharp.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Buffers.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.CodeDom.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.Odbc.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.OleDb.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.SqlClient.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.EventLog.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Drawing.Common.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.FileSystem.AccessControl.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.Packaging.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.Ports.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Memory.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Numerics.Vectors.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.AccessControl.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Cng.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Pkcs.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Xml.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Permissions.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Principal.Windows.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.ServiceModel.Syndication.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.ServiceProcess.ServiceController.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Text.Encoding.CodePages.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Threading.AccessControl.xml
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.AssemblyReference.cache
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.SuggestedBindingRedirects.cache
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Car_For_Showing_Car_Info.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.CustomerRegisterForm.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.FinancialUserControl.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_AdvancedSearchForm.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Basic_definitions.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.CarRegistere.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Dashboardusercontrol.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Employeeusercontrol.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Login.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.MainForm.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOfficeUserControl.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_EntranceInvoice.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_InternalFinancial.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_Rates.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingregisterUsereControl.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Permission_Form.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Properties.Resources.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ReportsSectionUserControl.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Systemuser_registerform.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Systemuser_usercontrol.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.UserRegister.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ViewCarInformation.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ViewCustomerInformation.resources
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.GenerateResource.cache
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.exe.licenses
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.CoreCompileInputs.cache
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.Fody.CopyLocal.cache
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.Fody.RuntimeCopyLocal.cache
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.CopyComplete
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.exe
+G:\Arash Ghanbari\Laptop reset 8-21-2022\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.pdb
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.exe.config
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.exe
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\ParkingProject.pdb
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\CircularProgressBar.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\EntityFramework.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.WinForms.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\LiveCharts.Wpf.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\Newtonsoft.Json.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\RestSharp.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Buffers.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.CodeDom.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.Odbc.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.OleDb.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Data.SqlClient.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Drawing.Common.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.Packaging.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.IO.Ports.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Memory.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Numerics.Vectors.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.AccessControl.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Permissions.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Security.Principal.Windows.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\bin\Debug\System.Threading.AccessControl.xml
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.AssemblyReference.cache
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.SuggestedBindingRedirects.cache
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Car_For_Showing_Car_Info.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.CustomerRegisterForm.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.FinancialUserControl.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_AdvancedSearchForm.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Basic_definitions.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.CarRegistere.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Dashboardusercontrol.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Employeeusercontrol.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Login.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.MainForm.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOfficeUserControl.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_EntranceInvoice.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_InternalFinancial.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingOffice_Rates.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ParkingregisterUsereControl.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Permission_Form.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Properties.Resources.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ReportsSectionUserControl.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Systemuser_registerform.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.Systemuser_usercontrol.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.UserRegister.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ViewCarInformation.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.ViewCustomerInformation.resources
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.GenerateResource.cache
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.exe.licenses
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.CoreCompileInputs.cache
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.Fody.CopyLocal.cache
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.Fody.RuntimeCopyLocal.cache
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.csproj.CopyComplete
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.exe
+E:\Programming & Coding\Saeed Rajabi\C#\Projects\ParkingProject\ParkingProject\obj\Debug\ParkingProject.pdb
